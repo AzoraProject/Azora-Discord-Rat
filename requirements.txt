@@ -2,5 +2,6 @@ discord
 requests
 pycaw
 pyautogui
+pyinstaller
 pynput
 comtypes
